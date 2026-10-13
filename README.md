@@ -10,8 +10,11 @@ dataset - ://httpspixabay.com/pt/videos/pessoas-comércio-fazer-compras-6387/
 Docker - https://www.docker.com/products/docker-desktop/
 ## CVAT
 CVAT W10 - https://docs.cvat.ai/docs/administration/community/basics/installation/#windows-10https://docs.cvat.ai/docs/administration/community/basics/installation/#windows-10
+
 CVAT MAC - https://docs.cvat.ai/docs/administration/community/basics/installation/#mac-os-mojave
+
 CVAT Linux - https://docs.cvat.ai/docs/administration/community/basics/installation/#ubuntu-22042004-x86_64amd64
+
 ## GITHUB 
 ## Meu Github - https://github.com/Leofter
 # YAML
